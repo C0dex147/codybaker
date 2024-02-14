@@ -1,4 +1,4 @@
-### Hi there 👋, Cody Baker
+Cody Baker
 #### Junior Front End Developer
 Hi, Im Cody from Phoenix, Arizona and I'm a amateur front end web developer. I've been practicing HTML, CSS, and Javascript for almost a year now and am ready to get my feet wet! I enjoy problem solving especially in a team environment and am excited to start my journey into the world of coding and tech!
 
